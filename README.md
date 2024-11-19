@@ -6,6 +6,7 @@ Soy desarrollador con **4 años de experiencia** en el mundo del software. Mis t
 
 - **JavaScript** 🟨
 - **Java** ☕
+- **Python** 🐍
 - **SQL** 🗄️
 - **MongoDB** 🛢️
 
@@ -15,6 +16,7 @@ Soy desarrollador con **4 años de experiencia** en el mundo del software. Mis t
 
 - JavaScript
 - Java
+- Python
 
 ### Bases de Datos
 
