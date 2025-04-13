@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [@sefuolDev](https://github.com/sefuolDev)
+# ¡Hola! 👋 Soy [@sefuDev](https://github.com/sefuDev)
 
 ## Sobre Mí
 
