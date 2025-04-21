@@ -38,7 +38,7 @@ Actualmente, estoy aprendiendo **React** para ampliar mis habilidades y crear in
 
 📫 **Cómo contactarme:**
 
-- [ X ](https://x.com/sefuolDev)
-- [Instagram](https://www.instagram.com/sefuolDev)
+- [ X ](https://x.com/sefuDev)
+- [Instagram](https://www.instagram.com/sefuDev)
 
 ¡Bienvenido a mi perfil! 😊 No dudes en explorar mis proyectos 🙌
